@@ -1,2 +1,2 @@
 # woongs2021.github.io
-woongs homepage
+woongs' personal homepage
